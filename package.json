@@ -1,0 +1,20 @@
+{
+  "name": "alexhe.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioalex/alexhe.io.git"
+  },
+  "keywords": [],
+  "author": "Alex He <alex@alexhe.io> (https://github.com/ioalex)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ioalex/alexhe.io/issues"
+  },
+  "homepage": "https://github.com/ioalex/alexhe.io#readme"
+}
