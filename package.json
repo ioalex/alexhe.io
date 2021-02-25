@@ -82,7 +82,7 @@
     "stylelint-declaration-block-no-ignored-properties": "^2.3.0",
     "stylelint-group-selectors": "^1.0.8",
     "stylelint-order": "^4.1.0",
-    "stylelint-scss": "^3.18.0",
+    "stylelint-scss": "^3.19.0",
     "stylelint-use-nesting": "^3.0.0",
     "webpack": "^5.24.2",
     "webpack-cli": "^4.5.0"
