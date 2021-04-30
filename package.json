@@ -45,7 +45,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@babel/core": "^7.13.16",
-    "@babel/preset-env": "^7.13.15",
+    "@babel/preset-env": "^7.14.0",
     "@commitlint/cli": "^12.1.1",
     "@commitlint/config-conventional": "^12.1.1",
     "@namics/stylelint-bem": "^6.3.1",
