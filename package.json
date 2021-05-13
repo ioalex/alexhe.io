@@ -46,7 +46,7 @@
     "@11ty/eleventy": "^0.12.1",
     "@babel/core": "^7.14.0",
     "@babel/preset-env": "^7.14.1",
-    "@commitlint/cli": "^12.1.1",
+    "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.1",
     "@namics/stylelint-bem": "^6.3.4",
     "autoprefixer": "^10.2.5",
